@@ -4,9 +4,9 @@ git status		//checks which files are being tracked
 
 git init		//make directory a .git
 
-git add -A		//add files to keep tracks
+git add -A		//add files to keep tracks add all changes
 
-git commit -m		//add a message to keep track of changes like comments
+git commit -m		//add a message to keep track of changes like comments and 				adds a snap shot
 
 git config —-global user.email		//adds user email to see who makes changes
 
@@ -19,3 +19,4 @@ git remote add origin https://github.com/henrikwok/git_testing.git
 			//remote server or cloud destination to upload files to
 
 git push -u origin master		//pushes files into destination
+
