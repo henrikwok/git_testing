@@ -1,0 +1,6 @@
+change #1
+
+git status
+
+git init
+
